@@ -5,4 +5,4 @@
 # task3: Use yfinance to Extract GameStop Stock Data
 # task4:  Use Webscraping to Extract GME Revenue Data
 # task5: Plot Tesla Stock Graph
-# task6: Plot GameStop Stock Graph
+# task6: Plot GameStop Stock Graph 
